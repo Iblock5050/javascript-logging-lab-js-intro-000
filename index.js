@@ -1,2 +1,2 @@
-console.warn()
-console.log
+console.warn("HALP!")
+
